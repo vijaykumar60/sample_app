@@ -11,7 +11,8 @@ gem 'bcrypt',         '3.1.13'
 gem 'sprockets-rails'
 
 gem 'bootstrap-sass', '3.4.1'
-
+gem 'sass-rails', '>= 3.2'
+gem 'jquery-rails'
 gem 'rails-controller-testing'
 
 # Use sqlite3 as the database for Active Record
