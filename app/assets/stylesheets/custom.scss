@@ -21,6 +21,9 @@ section {
   overflow: auto;
 }
 
+.padding {
+  padding-top: 10px;
+}
 textarea {
   resize: vertical;
 }
@@ -120,6 +123,9 @@ footer {
   }
 }
 
+input.btn.btn-primary.padding{
+  margin-top: 10px;
+}
 /* miscellaneous */
 
 .debug_dump {
